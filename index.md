@@ -27,4 +27,15 @@ closer to the process and risk owners.
 <img src="/img/Flow.svg" align="center" height="400px" width="auto">
 </p>
 
-Check an [example](/example) of a risk assesment.
+Check an [example](/example) of a risk assesment for a better picture of
+what can result of this process
+
+# What are our goals
+
+- Easy reporting and exporting tools
+- Easy to use REST API
+- Integrations with agile tools (trello/Jira)
+- Boilerplate generation of Risk management documents
+- Open repository of industry templates for risk management
+  - Finance / Insurance / Banking
+  - Industrial / Manufacturing
