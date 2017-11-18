@@ -21,12 +21,10 @@ By making this service we're aiming to facilitate the decentralisation of risk
 management, bringing threat identification, evaluation and mitigation planning
 closer to the process and risk owners.
 
+# A simple process
 
+<p align="center">
+<img src="/img/Flow.svg" align="center" height="400px" width="auto">
+</p>
 
-## We're only getting started...
-
-We're just getting started, and this is a side project as of now. If you
-like the idea, subscribe to the newlsetter. That way we'll know how many
-people would be interested
-
-{% include newsletter.html %}
+Check an [example](/example) of a risk assesment.
