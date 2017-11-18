@@ -5,7 +5,7 @@ subTitle: Disrupting heavily regulated industries needs fast and agile risk mana
 headerImage: '/img/fire-risk.jpg'
 ---
 
-# "Eating out own [dogfood"](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)
+# "Eating your own [dogfood"](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)
 
 It's a slag expression in software world about using something you've built. It implies
 that someone has built something out of need, and they are first hand users of the
