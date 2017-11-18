@@ -12,14 +12,14 @@ companies can now change the world with a few lines of code, and with that
 power comes great responsability
 
 
-Available tools to identity threats, manage mitigation policy lifecycles,
-and assign risk owners are complex or too expensive, leaving small companies
-with Excel sheets or outdated software.
+Available tools to identify threats, manage mitigation policies' lifecycles,
+and assign risk owners are either complex or too expensive. This leaves small
+companies with Excel sheets or outdated software as their only option.
 
 
-By making this service we're aiming to facilitate the decentralisation of risk
+By making this service we're aiming to facilitate the decentralization of risk
 management, bringing threat identification, evaluation and mitigation planning
-closer to the process and risk owners.
+closer to the process and risk owners. All of this accessible to small companies.
 
 # A simple process
 
