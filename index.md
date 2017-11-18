@@ -20,3 +20,13 @@ with Excel sheets or outdated software.
 By making this service we're aiming to facilitate the decentralisation of risk
 management, bringing threat identification, evaluation and mitigation planning
 closer to the process and risk owners.
+
+
+
+## We're only getting started...
+
+We're just getting started, and this is a side project as of now. If you
+like the idea, subscribe to the newlsetter. That way we'll know how many
+people would be interested
+
+{% include newsletter.html %}
