@@ -9,7 +9,7 @@ headerImage: '/img/surf-risk.jpg'
 
 Risk management is usually associated with big corporations. Not anymore. Small
 companies can now change the world with a few lines of code, and with that
-power comes great responsability
+power comes great responsibility.
 
 
 Available tools to identify threats, manage mitigation policies' lifecycles,
@@ -27,14 +27,14 @@ closer to the process and risk owners. All of this accessible to small companies
 <img src="/img/Flow.svg" align="center" height="400px" width="auto">
 </p>
 
-Check an [example](/example) of a risk assesment for a better picture of
+Check an [example](/example) of a risk assessment for a better picture of
 what can result of this process
 
 # What are our goals
 
 - Easy reporting and exporting tools
 - Easy to use REST API
-- Integrations with agile tools (trello/Jira)
+- Integrations with agile tools (Trello/Jira)
 - Boilerplate generation of Risk management documents
 - Open repository of industry templates for risk management
   - Finance / Insurance / Banking
