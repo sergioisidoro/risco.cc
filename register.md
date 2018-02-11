@@ -9,6 +9,7 @@ subTitle: Disrupting heavily regulated industries needs fast and agile risk mana
 We're developing the alpha version and we'll send you an invite as soon as
 the MVP is up and running
 
+
 {% include newsletter.html %}
 
 

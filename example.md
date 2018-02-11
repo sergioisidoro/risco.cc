@@ -5,7 +5,13 @@ subTitle: Disrupting heavily regulated industries needs fast and agile risk mana
 headerImage: '/img/fire-risk.jpg'
 ---
 
-# A family trip risk Assesment
+# How does risk assesments work in Risco?
+In Risco we've simplified as much as possible the process of risk assessments. In risco 
+threats to your organisation are broken down into *threats*, that have specific *scenarios*. 
+The damage or probability of those scenarios are reduced with *mitigations*. Let's see the example
+of a family roadrip risk assessment
+
+# A family trip risk Assessment
 
 Let's say that you're going on a roadtrip with your family. You're a very thorough
 planner, even for the mundane things in life. So you decide to use Risco to

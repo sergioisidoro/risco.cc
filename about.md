@@ -4,14 +4,14 @@ title: Risco
 subTitle: Disrupting heavily regulated industries needs fast and agile risk management
 headerImage: '/img/fire-risk.jpg'
 ---
+# Risco came from our own needs.
+## "Eating your own [dogfood"](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)
 
-# "Eating your own [dogfood"](https://en.wikipedia.org/wiki/Eating_your_own_dog_food)
-
-It's a slag expression in software world about using something you've built. It implies
-that someone has built something out of need, and they are first hand users of the
+"Eating your own dog food" is a slag expression in software world about using something you've built. 
+It implies that someone built something out of their own need, and they are first hand users of the
 solution. That expression summarizes the beginning of this project
 
-It started while working in a FinTech company. After searching for the
+Risco started while I was working at a FinTech company. After searching for the
 available tools and services for lean risk management we could not find a
 fit for our size and economic constraints.
 
